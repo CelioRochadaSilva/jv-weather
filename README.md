@@ -1,3 +1,6 @@
+# Tela do app
+![tela app](https://github.com/CelioRochadaSilva/jv-weather/blob/main/img/testes.png)
+
 # JvWeather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.

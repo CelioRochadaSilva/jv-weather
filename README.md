@@ -1,5 +1,6 @@
 # Tela do app
 ![tela app](https://github.com/CelioRochadaSilva/jv-weather/blob/main/img/testes.png)
+Obs. Detalhes sobre funcionalidade em breve será adicionada (em desenvolvimento). 
 
 # JvWeather
 

@@ -31,6 +31,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     EffectsModule.forRoot([]),
     StoreRouterConnectingModule.forRoot({ serializer: CustomRouterSerializer }),
     BrowserAnimationsModule,
+    StoreModule.forRoot({}, {}),
   ],
   providers: [],
   bootstrap: [AppComponent]
